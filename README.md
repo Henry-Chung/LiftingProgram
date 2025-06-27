@@ -12,8 +12,8 @@ As a powerlifting coach, I understand the nuances of strength training. Each pro
 
 Here are the specific programs currently available:
 
-* **[Joe's Program](https://henry-chung.github.io/LiftingProgram/Joe.html)**: 
-* **[Kevin's Program](https://henry-chung.github.io/LiftingProgram/Kevin.html)**:
+* **[Joe's Program](https://henry-chung.github.io/LiftingProgram/Joe.html)**
+* **[Kevin's Program](https://henry-chung.github.io/LiftingProgram/Kevin.html)**
 
 ---
 
