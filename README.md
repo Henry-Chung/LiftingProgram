@@ -16,12 +16,13 @@ My aim is to maximize your performance in the **squat  squat**, **bench press be
 
 ---
 
-## 🏋️‍♀️ Available Programs
+## 🏋️‍♀️ Your Personal Programs
 
-Browse the tailored programs below. Click on your name to reveal your complete training plan!
+Below are the direct links to your individual training programs. Simply click on your name to access your complete, detailed plan!
 
-* **[Joe's Program](https://henry-chung.github.io/LiftingProgram/Joe.html)**: *[Brief, enticing description of Joe's program. E.g., "A foundational 3-day full-body routine, perfect for mastering the basics and building a strong base."]*
-* **[Kevin's Program](https://henry-chung.github.io/LiftingProgram/Kevin.html)**: *[Brief, enticing description of Kevin's program. E.g., "An advanced 4-day split, focusing on specialized volume blocks and peaking strategies for competition."]*
+* **[Joe's Program](https://henry-chung.github.io/LiftingProgram/Joe.html)**
+* **[Kevin's Program](https://henry-chung.github.io/LiftingProgram/Kevin.html)**
+* *[Optional: Add more client names and their respective links as you add more programs]*
 
 ---
 
@@ -32,6 +33,8 @@ Browse the tailored programs below. Click on your name to reveal your complete t
 > **Questions & Support:** Your success is my priority! If you have *any* questions about exercises, need modifications, or want to discuss your progress, please don't hesitate to reach out to me directly.
 >
 > **Safety First:** Always prioritize **impeccable form** over ego-lifting. Listen closely to your body, and ensure you take adequate rest days. Consistency and health are key!
+>
+> **Can't Find Your Program?** If your name isn't listed yet, or you're experiencing any issues accessing your program, please contact me right away!
 
 ---
 
